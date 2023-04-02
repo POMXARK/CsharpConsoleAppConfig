@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "fDOaBYxmZcGC74jy2xnrkRtegZUkakJS9s9zvFlYJ39I2eqrxrziSUwYtm8q0AXxWbqL1+56beQHi8DimFngnA==",
+  "success": true,
+  "projectFilePath": "/home/jin29linux/RiderProjects/ConfigurationOnConsole/ConsoleAppConfig/ConsoleAppConfig.csproj",
+  "expectedPackageFiles": [
+    "/home/jin29linux/.nuget/packages/microsoft.extensions.configuration/8.0.0-preview.2.23128.3/microsoft.extensions.configuration.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/home/jin29linux/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0-preview.2.23128.3/microsoft.extensions.configuration.abstractions.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/home/jin29linux/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0-preview.2.23128.3/microsoft.extensions.configuration.binder.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/home/jin29linux/.nuget/packages/microsoft.extensions.configuration.commandline/8.0.0-preview.2.23128.3/microsoft.extensions.configuration.commandline.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/home/jin29linux/.nuget/packages/microsoft.extensions.configuration.environmentvariables/8.0.0-preview.2.23128.3/microsoft.extensions.configuration.environmentvariables.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/home/jin29linux/.nuget/packages/microsoft.extensions.configuration.fileextensions/8.0.0-preview.2.23128.3/microsoft.extensions.configuration.fileextensions.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/home/jin29linux/.nuget/packages/microsoft.extensions.configuration.json/8.0.0-preview.2.23128.3/microsoft.extensions.configuration.json.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/home/jin29linux/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0-preview.2.23128.3/microsoft.extensions.fileproviders.abstractions.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/home/jin29linux/.nuget/packages/microsoft.extensions.fileproviders.physical/8.0.0-preview.2.23128.3/microsoft.extensions.fileproviders.physical.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/home/jin29linux/.nuget/packages/microsoft.extensions.filesystemglobbing/8.0.0-preview.2.23128.3/microsoft.extensions.filesystemglobbing.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/home/jin29linux/.nuget/packages/microsoft.extensions.primitives/8.0.0-preview.2.23128.3/microsoft.extensions.primitives.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/home/jin29linux/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/jin29linux/.nuget/packages/system.text.encodings.web/8.0.0-preview.2.23128.3/system.text.encodings.web.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/home/jin29linux/.nuget/packages/system.text.json/8.0.0-preview.2.23128.3/system.text.json.8.0.0-preview.2.23128.3.nupkg.sha512"
+  ],
+  "logs": []
+}
